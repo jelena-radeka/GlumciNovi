@@ -62,7 +62,7 @@ public class FilmDetails extends AppCompatActivity {
 
     private void getDetail(String imdbKey) {
         HashMap<String, String> queryParams = new HashMap<>();
-        queryParams.put("apikey", "fd705d15");
+        queryParams.put("apikey", "API KEY");
         queryParams.put("i", imdbKey);
 
 

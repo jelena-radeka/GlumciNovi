@@ -91,7 +91,7 @@ public class ListaFilmova extends AppCompatActivity implements MyAdapter2.OnItem
 
     private void getMovieByName(String name) {
         Map<String, String> query = new HashMap<>();
-        query.put("apikey", "fd705d15");
+        query.put("apikey", "API KEY");
         query.put("s", name.trim());
 
         Call<Example> call = MyService.apiInterface().getMovieByName(query);
