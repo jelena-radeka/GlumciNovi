@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GlumciNovi</string>
+    <string name="aboutDijalog">Dijalog</string>
+    <string name="toast_key">toast_key</string>
+    <string name="notif_key">notif_key</string>
+    <string name="splash_key">splash_key</string>
+    <string name="settings">settings</string>
+    <string name="about_dialog">about_dialog</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="add_film">add_film</string>
+    <string name="search">search</string>
+    <string name="movie_name">movie_name</string>
+    <string name="detalji_plot">detalji_plot</string>
+    <string name="detalji_actors">detalji_actors</string>
+    <string name="detalji_directed_by">detalji_directed_by</string>
+    <string name="detalji_writen_by">detalji_writen_b</string>
+    <string name="detalji_genre">detalji_genre</string>
+</resources>
